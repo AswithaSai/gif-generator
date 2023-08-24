@@ -54,9 +54,9 @@
     display: none;
     height: 15em;
     width: 15em;
-    border: 3em solid #131f46;
+    border: 3em solid #1e1a29;
     border-radius: 50%;
-    border-top-color: #0e0d31;
+    border-top-color: #5C5470;
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
